@@ -5,7 +5,7 @@ This repository contains the full resolution of the proposed problems by Nuveo C
  The folder are distributed as follow:
 - 01_wheres_wally[folder]: Contains the files, model, and images for the proposed solution for the problem **01-WheresWally**;
 - 02_spame_detector[folder]: Contains the Python project, and implementation for the problem **02-SMSSpamDetection**;
-- 03_fraud_detectino[folder]: Contains the answer for the problem **03-FraudDetection**.
+- 03_fraud_detection[folder]: Contains the answer for the problem **03-FraudDetection**.
 
 This repository also contains a general requirement file, and this file contains all the packages necessary for the execution of all the proposed solutions. The installation can be done as followed:
 
