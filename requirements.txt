@@ -1,0 +1,10 @@
+tensorflow==1.15.5
+Keras==2.2.4
+imgaug==0.4.0
+pandas
+scikit-learn
+jupyterlab
+mediapy
+opencv-python
+tqdm
+ipywidgets

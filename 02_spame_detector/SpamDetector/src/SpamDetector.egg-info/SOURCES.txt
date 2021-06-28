@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+src/SpamDetector/SpamDetector.py
+src/SpamDetector/__init__.py
+src/SpamDetector.egg-info/PKG-INFO
+src/SpamDetector.egg-info/SOURCES.txt
+src/SpamDetector.egg-info/dependency_links.txt
+src/SpamDetector.egg-info/top_level.txt

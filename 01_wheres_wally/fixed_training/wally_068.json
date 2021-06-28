@@ -1,0 +1,34 @@
+{
+  "shapes": [
+    {
+      "shape_type": "polygon", 
+      "points": [
+        [
+          997.4901960784314, 
+          596.0392156862745
+        ], 
+        [
+          794.5490196078431, 
+          597.0196078431372
+        ], 
+        [
+          792.0, 
+          928.0
+        ], 
+        [
+          999.0, 
+          928.0
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "wally"
+    }
+  ], 
+  "imagePath": "wally_068.jpg", 
+  "flags": {}, 
+  "version": "4.5.7", 
+  "imageData": null, 
+  "imageWidth": 1000, 
+  "imageHeight": 929
+}
